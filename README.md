@@ -1,8 +1,8 @@
 # [OMDB-Movie-App](https://chandan-mourya-movieapp.netlify.app/)
 
-#Searched Movies Dangal
+#Searched Movies RRR
 ![image](https://user-images.githubusercontent.com/43124877/163721928-5c5f7c17-439f-4a0a-97e9-e4cc30b50208.png)
-#Searched Movie RRR
+#Searched Movie  Dangal
 ![image](https://user-images.githubusercontent.com/43124877/163721958-67803542-a799-47e3-8dc8-f5cec88904be.png)
 
 
